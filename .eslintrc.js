@@ -11,5 +11,6 @@ module.exports = {
   },
   rules: {
     "no-undef": "warn",
+    "import/prefer-default-export": "off",
   },
 };
