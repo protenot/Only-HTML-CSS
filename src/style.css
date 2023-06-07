@@ -88,7 +88,8 @@ h1 {
 .footer-ul {
   width: 22%;
   padding-left: 10px;
-  padding-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .footer-li {
   width: 100%;
